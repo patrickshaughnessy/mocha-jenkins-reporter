@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juhovh/mocha-jenkins-reporter.git"
+    "url": "https://github.com/patrshaughnessy/mocha-jenkins-reporter.git"
   },
   "keywords": [
     "mocha",
@@ -21,12 +21,13 @@
     "diff": "1.0.7",
     "mkdirp": "0.5.1",
     "mocha": "^5.2.0",
+    "uuid": "^3.3.2",
     "xml": "^1.0.1"
   },
   "author": "Juho Vähä-Herttua",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juhovh/mocha-jenkins-reporter/issues"
+    "url": "https://github.com/patrshaughnessy/mocha-jenkins-reporter/issues"
   },
   "devDependencies": {
     "eslint": "3.12.1"
